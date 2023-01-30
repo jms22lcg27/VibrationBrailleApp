@@ -83,17 +83,40 @@
 ## 4. 앱 디자인
 
 ### 메인 페이지
+
+![1](https://user-images.githubusercontent.com/85046063/215409464-e3a1d686-3831-401b-928c-139ac18d8ff2.jpg)
+![2](https://user-images.githubusercontent.com/85046063/215409498-394ce6bc-2126-4fcb-9b87-c8bc6ec86dcd.jpg)
+![3](https://user-images.githubusercontent.com/85046063/215409508-b6198e3a-e591-4a31-a8b5-3b658b8eb1bd.jpg)
+
 ---------------------- 
 
 ### 실행 영상
+
+![4번](https://user-images.githubusercontent.com/85046063/215409590-2627d0a8-f756-49c4-8bf8-9426cf26660c.gif)
+![5번](https://user-images.githubusercontent.com/85046063/215409605-e08ffe8f-969d-46dd-943b-832d894636d8.gif)
+![6번](https://user-images.githubusercontent.com/85046063/215409607-d3fea876-61f5-46f7-a9d3-dbcca87829b3.gif)
+
 ---------------------- 
 
 ### 진동 규칙
+
+![7](https://user-images.githubusercontent.com/85046063/215409678-c8c9750f-207e-4c66-b496-19c4dac98844.jpg)
+
 ---------------------- 
 
 ### 점자 리스트
+
+![8](https://user-images.githubusercontent.com/85046063/215409776-0cebb055-bca5-41bd-b391-3a343f172cf7.jpg)
+![9](https://user-images.githubusercontent.com/85046063/215409799-60817772-f245-4825-bcfc-e1ad6dbc152c.jpg)
+![10](https://user-images.githubusercontent.com/85046063/215409800-8fe1e7ff-099b-466b-8799-2daa349b1149.jpg)
+![11](https://user-images.githubusercontent.com/85046063/215409803-5eaef452-216d-44b8-9741-00eb6b4f7c0a.jpg)
+
 ---------------------- 
 
 ### 진동 점자 리스트 예시
+
+![12](https://user-images.githubusercontent.com/85046063/215409832-b37aa8ae-8684-4e2f-b907-b79cbc95c391.jpg)
+![13](https://user-images.githubusercontent.com/85046063/215409836-c5d2b16f-b8fe-4f4b-8d33-d7cc174930d9.jpg)
+
 ---------------------- 
 
