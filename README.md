@@ -8,7 +8,7 @@
 
 ## 2. 개요 
 
-+ 프로젝트 명칭 : VibrationBrailleApp
++ 프로젝트 명칭 : Vibration Braille App (진동 점자 )
 
 + 개발 인원 : 1명 
 
