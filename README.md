@@ -89,8 +89,7 @@
 
 ### 메인 페이지
 
-<img src="https://user-images.githubusercontent.com/85046063/215409498-394ce6bc-2126-4fcb-9b87-c8bc6ec86dcd.jpg" width="20%" height="30%">
-<img src="https://user-images.githubusercontent.com/85046063/215409508-b6198e3a-e591-4a31-a8b5-3b658b8eb1bd.jpg" width="20%" height="30%"> ![2](https://user-images.githubusercontent.com/85046063/215409498-394ce6bc-2126-4fcb-9b87-c8bc6ec86dcd.jpg) ![3](https://user-images.githubusercontent.com/85046063/215409508-b6198e3a-e591-4a31-a8b5-3b658b8eb1bd.jpg)
+<img src="https://user-images.githubusercontent.com/85046063/215409498-394ce6bc-2126-4fcb-9b87-c8bc6ec86dcd.jpg" width="20%" height="30%"> <img src="https://user-images.githubusercontent.com/85046063/215409508-b6198e3a-e591-4a31-a8b5-3b658b8eb1bd.jpg" width="20%" height="30%"> 
 
 ---------------------- 
 
